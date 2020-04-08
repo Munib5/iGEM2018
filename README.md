@@ -1,5 +1,4 @@
 # iGEM2018
-# iGEM2018
 How to navigate the iGEM Wiki repository
 
 ## How to deal with github
